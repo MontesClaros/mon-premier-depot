@@ -1,28 +1,26 @@
-# Ceci est une entête en majuscule
+# Sean Kross
 
-## Entête un minuscule
+### Geography
 
-Une petit exemple de **texte** afin 
-d'illustrer l'utilisation *de l'outil* que nous
-allons **utiliser** a l'avenir dans ce cours
+I live in the city of Baltimore, in the state of Maryland, in the United States
+of America.
 
-- on peu
-- faire des
-- liste comme 
-- cela
+### Reading
 
-1. ou alors
-2. comme
-3. cela
+Three of my favorite books are:
 
-```
-un petit
-bout
-de code
-```
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-on peut aussi placé `un peu de code` pour indiquer du code 
-dans une phrase
+### Food
 
-le lien qui permet d'apprendre [a link](https://wikipedia.org/). 
+Last night I dreamt about eating in these restaurants:
 
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
+
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
