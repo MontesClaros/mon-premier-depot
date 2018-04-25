@@ -1,0 +1,17 @@
+commit 12092499721e960d8b431d4139264932071a47d1
+Author: MontesClaros <schischi@hotmail.com>
+Date:   Wed Apr 25 08:42:27 2018 +0200
+
+    ajout du fichier gitignore
+
+commit ec627cf242c437f73cf72b05cb560748ca83c10e
+Author: MontesClaros <schischi@hotmail.com>
+Date:   Wed Apr 25 08:27:47 2018 +0200
+
+    addition de deux fichiers
+
+commit 11c12963cbb516aebe592d59f9ef1ae773fec95a
+Author: MontesClaros <schischi@hotmail.com>
+Date:   Wed Apr 25 08:14:09 2018 +0200
+
+    ajout du fichier readme.txt
